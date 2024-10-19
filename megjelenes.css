@@ -128,3 +128,22 @@ font-style: italic;
     margin-right: auto;
     
 }
+/*  */
+a:link {
+    color: #FF0000;
+  }
+  
+  /* Meglátogatott */
+  a:visited {
+    color: #00FF00;
+  }
+  
+  /* Ráviszem az egeret */
+  a:hover {
+    color: #FF00FF;
+  }
+  
+  /* Éppen aktív állapotban levő*/
+  a:active {
+    color: #0000FF;
+  }
